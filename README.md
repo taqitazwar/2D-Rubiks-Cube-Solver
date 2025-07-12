@@ -1,10 +1,17 @@
-# 2D Rubik's Cube Solver
+# 🧩 2D Rubik's Cube Solver
+
+## 🎥 Demo Video  
+Watch it in action: [https://youtu.be/ydkVJTvn0zc](https://youtu.be/ydkVJTvn0zc)
+
+---
 
 ## Description
 A Java-based **Rubik’s Cube Solver** with a graphical interface. It supports:
 
 - **Brute Force (IDDFS)** – Uses depth-first search to explore move sequences and solve the cube.
 - **Optimal Solver (IDA*)** – Uses a heuristic-based search to find the shortest solution efficiently.
+
+![2D GUI](./GUIRUBIKS.png)
 
 ## Installation
 1. Ensure **Java** (JDK) is installed.
